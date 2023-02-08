@@ -69,5 +69,11 @@
         android:title="@string/gaming_mode_tile_title"
         android:summary="@string/gaming_mode_tile_summary"
         android:fragment="com.android.settings.gaming.GamingModeFragment" />
+        
+     <Preference
+            android:key="qs_tile_layout"
+            android:title="@string/qs_tile_layout_title"
+            android:summary="@string/qs_tile_layout_summary"
+            android:fragment="com.zapped.settings.fragments.QsTileLayoutSettings" />
 
 </PreferenceScreen>
