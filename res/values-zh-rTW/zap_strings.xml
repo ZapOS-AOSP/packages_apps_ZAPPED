@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="yaap_settings_title">YASP</string>
+    <string name="zap_settings_title">Zapped Settings</string>
 
     <!-- Categories -->
     <string name="button_title">按鈕</string>
@@ -62,7 +62,7 @@
     <!-- QS footer text -->
     <string name="qs_footer_text_show_title">快速設定底部文字</string>
     <string name="qs_footer_text_string_title">自訂文字</string>
-    <string name="qs_footer_text_string_summary">留空以使用預設文字（YAAP）</string>
+    <string name="qs_footer_text_string_summary">留空以使用預設文字（ZAP）</string>
 
     <!-- About -->
     <string name="about_title">關於</string>

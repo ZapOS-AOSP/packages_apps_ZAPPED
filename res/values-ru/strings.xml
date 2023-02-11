@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="yaap_settings_title">Настройки YAAP</string>
+    <string name="zap_settings_title">Настройки Zapped</string>
 
     <!-- Categories -->
     <string name="button_title">Кнопки</string>
@@ -63,7 +63,7 @@
     <!-- QS footer text -->
     <string name="qs_footer_text_show_title">Отображать текст в нижнем колонтитуле быстрых настроек</string>
     <string name="qs_footer_text_string_title">Собственный текст в нижнем колонтитуле быстрых настроек</string>
-    <string name="qs_footer_text_string_summary">Оставьте пустым для стандартного текста YAAP</string>
+    <string name="qs_footer_text_string_summary">Оставьте пустым для стандартного текста ZAP</string>
 
     <!-- About -->
     <string name="about_title">О нас</string>

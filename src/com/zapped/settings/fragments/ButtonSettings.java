@@ -28,7 +28,7 @@ public class ButtonSettings extends DashboardFragment {
 
     @Override
     protected int getPreferenceScreenResId() {
-        return R.xml.yaap_settings_button;
+        return R.xml.zap_settings_button;
     }
 
     @Override
@@ -42,5 +42,5 @@ public class ButtonSettings extends DashboardFragment {
     }
 
     public static final BaseSearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
-            new BaseSearchIndexProvider(R.xml.yaap_settings_button);
+            new BaseSearchIndexProvider(R.xml.zap_settings_button);
 }

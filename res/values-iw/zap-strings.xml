@@ -56,7 +56,7 @@
     <!-- QS footer text -->
     <string name="qs_footer_text_show_title">הצג טקטס בתחתית ההגדרות המהירות</string>
     <string name="qs_footer_text_string_title">שנה טקטס</string>
-    <string name="qs_footer_text_string_summary">שנה לכלום על מנת לבחור בברירת המחדל YAAP</string>
+    <string name="qs_footer_text_string_summary">שנה לכלום על מנת לבחור בברירת המחדל Zapped</string>
 
     <!-- About -->
     <string name="about_title">אודות</string>
